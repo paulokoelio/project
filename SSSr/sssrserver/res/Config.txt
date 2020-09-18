@@ -1,0 +1,56 @@
+Screen width
+1024
+Screen height
+680
+Number of objects
+6
+Folder with sprites
+res/Sprites/
+Object0000 (Name, x, y, Vx, Vy, D, m)
+Saturn____
+600.0
+340.0
+1
+1
+90
+1
+Object0001 (Name, x, y, Vx, Vy, D, m)
+Neptun____
+1000.0
+340.0
+1
+1
+50
+1
+Object0002
+Venus_____
+120.0
+340.0
+1
+1
+70
+1
+Object0003
+Earth_____
+220.0
+340.0
+1
+1
+70
+1
+Object0004
+Sun_______
+0.0
+340.0
+1
+1
+120
+1
+Object0005
+Moon______
+320.0
+380.0
+1
+1
+50
+1

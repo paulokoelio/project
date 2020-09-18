@@ -1,0 +1,10 @@
+#pragma once
+
+#cmakedefine SSSR_PROJECT_VERSION "@SSSR_PROJECT_VERSION@"
+
+namespace sssr
+{
+    const char *version();
+
+} // namespace sssr
+
